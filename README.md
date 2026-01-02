@@ -1,15 +1,96 @@
-<h1>Hi 👋, I'm Osman</h1>
-<p>A passionate frontend developer from </p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://angular.io/assets/images/logos/angular/angular.svg" style="display: inline-block;"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://reactnative.dev/img/header_logo.svg" style="display: inline-block;"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/osman-dlh/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/https://www.instagram.com/osmaan_dlh/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+<h1 align="center">Hi 👋, I'm Osman</h1>
+
+<h3 align="center">
+Frontend Developer • React & Next.js • TypeScript
+</h3>
+
+<p align="center">
+🚀 Passionate about building modern, scalable, and user-friendly web applications  
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 **Systems Engineering student**
+- 💼 **Junior Frontend Developer**
+- ⚛️ Specialized in **React, Next.js & TypeScript**
+- 🎨 UI-focused developer using **Material UI** in real-world projects
+- 📱 Experience with **React Native** and **Flutter**
+- 🧠 Constantly improving my fundamentals to become a **solid React expert**
+- 🌎 Based in **Barranquilla, Colombia**
+- 🧪 Building projects for my **portfolio**, including:
+  - 🍽️ Restaurant system with **QR-based ordering**
+  - 🚲 **GPS bike rental system** (Arduino + ESP32 + Web Dashboard)
+  - 🎰 Casino roulette game
+- 🏆 Selected to represent my university at **CIENTEC – Lima, Perú**
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42" height="42"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="42" height="42"/>
+  </a>
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="42" height="42"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42" height="42"/>
+  </a>
+  <a href="https://reactnative.dev/" target="_blank">
+    <img src="https://reactnative.dev/img/header_logo.svg" width="42" height="42"/>
+  </a>
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="42" height="42"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" height="42"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42"/>
+  </a>
+</p>
+
+---
+
+### 🧩 What I Do Best
+
+- ⚛️ Build **React & Next.js** applications with clean architecture
+- 🧠 Create **custom hooks** for API requests and authentication
+- 🔐 Handle **auth flows, tokens, interceptors & protected routes**
+- 🎨 Design responsive UIs with **Material UI**
+- 🔌 Integrate REST APIs and real-time features
+- 📦 Maintain scalable and maintainable frontend codebases
+
+---
+
+### ⚡️ Currently Learning
+
+- 📌 Advanced React patterns
+- 📌 Angular (to expand job opportunities)
+- 📌 Clean Architecture & Frontend best practices
+
+---
+
+### 🌐 Where to Find Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/osman-dlh/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Osman%20De%20La%20Hoz-0a77b6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/osmaan_dlh/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-osmaan__dlh-F35369?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐️ *Always open to learning, collaboration, and new challenges.*
